@@ -1,0 +1,800 @@
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormChats.resources
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Properties.Resources.resources
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPrincipal.resources
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMensajes.resources
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMenu.resources
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiPagos.resources
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormHistorial.resources
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormInicio.resources
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPedidos.resources
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormReservas.resources
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.exe
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll.config
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.deps.json
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.runtimeconfig.json
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.pdb
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.pdb
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\Telegram.6CBAF811.Up2Date
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\refint\TelegramFoodBot.Presentation.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\ref\TelegramFoodBot.Presentation.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.pdb
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.Login.resources
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.exe
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll.config
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.deps.json
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.runtimeconfig.json
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.pdb
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.pdb
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.pdb
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.AssemblyReference.cache
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPrincipal.resources
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormChats.resources
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMensajes.resources
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMenu.resources
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiPagos.resources
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormHistorial.resources
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormInicio.resources
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPedidos.resources
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormReservas.resources
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.Login.resources
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Properties.Resources.resources
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.GenerateResource.cache
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.AssemblyInfoInputs.cache
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.AssemblyInfo.cs
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.CoreCompileInputs.cache
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\Telegram.6CBAF811.Up2Date
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\refint\TelegramFoodBot.Presentation.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.genruntimeconfig.cache
+E:\C#\Proyectos\Migue\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\ref\TelegramFoodBot.Presentation.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.exe
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll.config
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.deps.json
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.runtimeconfig.json
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.AssemblyReference.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPrincipal.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormChats.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMensajes.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMenu.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiPagos.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormHistorial.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormInicio.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPedidos.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormReservas.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.Login.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Properties.Resources.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.GenerateResource.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\Telegram.6CBAF811.Up2Date
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\refint\TelegramFoodBot.Presentation.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.genruntimeconfig.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\ref\TelegramFoodBot.Presentation.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.exe
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll.config
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.deps.json
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.runtimeconfig.json
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.pdb
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.pdb
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.pdb
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPrincipal.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormChats.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMensajes.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMenu.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiPagos.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormHistorial.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormInicio.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPedidos.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormReservas.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.Login.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Properties.Resources.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.GenerateResource.cache
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.AssemblyInfo.cs
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\Telegram.6CBAF811.Up2Date
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\refint\TelegramFoodBot.Presentation.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.genruntimeconfig.cache
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\ref\TelegramFoodBot.Presentation.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPrincipal.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormChats.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMensajes.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMenu.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiPagos.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormHistorial.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormInicio.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPedidos.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormReservas.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.Login.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Properties.Resources.resources
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.GenerateResource.cache
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.exe
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll.config
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.deps.json
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.runtimeconfig.json
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.pdb
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.pdb
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.pdb
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\Telegram.6CBAF811.Up2Date
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\refint\TelegramFoodBot.Presentation.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.genruntimeconfig.cache
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\ref\TelegramFoodBot.Presentation.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.exe
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll.config
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.deps.json
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.runtimeconfig.json
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.pdb
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.pdb
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.pdb
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.AssemblyReference.cache
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPrincipal.resources
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormChats.resources
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMensajes.resources
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMenu.resources
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiPagos.resources
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormHistorial.resources
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormInicio.resources
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPedidos.resources
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormReservas.resources
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.Login.resources
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Properties.Resources.resources
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.GenerateResource.cache
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.CoreCompileInputs.cache
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\Telegram.6CBAF811.Up2Date
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\refint\TelegramFoodBot.Presentation.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.genruntimeconfig.cache
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\ref\TelegramFoodBot.Presentation.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\refint\TelegramFoodBot.Presentation.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.exe
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll.config
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.deps.json
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.runtimeconfig.json
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.pdb
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.pdb
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.pdb
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.AssemblyReference.cache
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPrincipal.resources
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormChats.resources
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMensajes.resources
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMenu.resources
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiPagos.resources
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormHistorial.resources
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormInicio.resources
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPedidos.resources
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormReservas.resources
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.Login.resources
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Properties.Resources.resources
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.GenerateResource.cache
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.CoreCompileInputs.cache
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\Telegram.6CBAF811.Up2Date
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.genruntimeconfig.cache
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\ref\TelegramFoodBot.Presentation.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.Extensions.Polling.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.exe
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll.config
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.deps.json
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.runtimeconfig.json
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.Extensions.Polling.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.pdb
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.pdb
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.pdb
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.AssemblyReference.cache
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPrincipal.resources
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormChats.resources
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMensajes.resources
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMenu.resources
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiPagos.resources
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormHistorial.resources
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormInicio.resources
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPedidos.resources
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormReservas.resources
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.Login.resources
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Properties.Resources.resources
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.GenerateResource.cache
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.CoreCompileInputs.cache
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\Telegram.6CBAF811.Up2Date
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\refint\TelegramFoodBot.Presentation.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.genruntimeconfig.cache
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\ref\TelegramFoodBot.Presentation.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.exe
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll.config
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.deps.json
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.runtimeconfig.json
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.Extensions.Polling.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.pdb
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.pdb
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.pdb
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.AssemblyReference.cache
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPrincipal.resources
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormChats.resources
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMensajes.resources
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMenu.resources
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiPagos.resources
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormHistorial.resources
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormInicio.resources
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPedidos.resources
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormReservas.resources
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.Login.resources
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Properties.Resources.resources
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.GenerateResource.cache
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.CoreCompileInputs.cache
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\Telegram.6CBAF811.Up2Date
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\refint\TelegramFoodBot.Presentation.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.genruntimeconfig.cache
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\ref\TelegramFoodBot.Presentation.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.exe
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll.config
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.deps.json
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.runtimeconfig.json
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.Extensions.Polling.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.pdb
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.pdb
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.pdb
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPrincipal.resources
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormChats.resources
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMensajes.resources
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMenu.resources
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiPagos.resources
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormHistorial.resources
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormInicio.resources
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPedidos.resources
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormReservas.resources
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.Login.resources
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Properties.Resources.resources
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.GenerateResource.cache
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\Telegram.6CBAF811.Up2Date
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\refint\TelegramFoodBot.Presentation.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.genruntimeconfig.cache
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\ref\TelegramFoodBot.Presentation.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.exe
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll.config
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.deps.json
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.runtimeconfig.json
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.Extensions.Polling.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.pdb
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.pdb
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.pdb
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPrincipal.resources
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormChats.resources
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMensajes.resources
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMenu.resources
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiPagos.resources
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormHistorial.resources
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormInicio.resources
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPedidos.resources
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormReservas.resources
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.Login.resources
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Properties.Resources.resources
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.GenerateResource.cache
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\Telegram.6CBAF811.Up2Date
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\refint\TelegramFoodBot.Presentation.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.genruntimeconfig.cache
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\ref\TelegramFoodBot.Presentation.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.AssemblyReference.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\refint\TelegramFoodBot.Presentation.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.exe
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll.config
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.deps.json
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.runtimeconfig.json
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.Extensions.Polling.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPrincipal.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormChats.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMensajes.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMenu.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiPagos.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormHistorial.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormInicio.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPedidos.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormReservas.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.Login.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Properties.Resources.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.GenerateResource.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\Telegram.6CBAF811.Up2Date
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.genruntimeconfig.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\ref\TelegramFoodBot.Presentation.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.Extensions.Polling.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.exe
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll.config
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.deps.json
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.runtimeconfig.json
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.Extensions.Polling.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.AssemblyReference.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPrincipal.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormChats.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMensajes.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMenu.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiPagos.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormHistorial.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormInicio.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPedidos.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormReservas.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.Login.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Properties.Resources.resources
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.GenerateResource.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\Telegram.6CBAF811.Up2Date
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\refint\TelegramFoodBot.Presentation.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.genruntimeconfig.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\ref\TelegramFoodBot.Presentation.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.exe
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll.config
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.deps.json
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.runtimeconfig.json
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.Extensions.Polling.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.pdb
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.pdb
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.pdb
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.AssemblyReference.cache
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPrincipal.resources
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormChats.resources
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMensajes.resources
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMenu.resources
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiPagos.resources
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormHistorial.resources
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormInicio.resources
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPedidos.resources
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormReservas.resources
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.Login.resources
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Properties.Resources.resources
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.GenerateResource.cache
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.CoreCompileInputs.cache
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\Telegram.6CBAF811.Up2Date
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\refint\TelegramFoodBot.Presentation.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.genruntimeconfig.cache
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\ref\TelegramFoodBot.Presentation.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.exe
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll.config
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.deps.json
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.runtimeconfig.json
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.Extensions.Polling.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.pdb
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.pdb
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.pdb
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.AssemblyReference.cache
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPrincipal.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormChats.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMensajes.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMenu.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiPagos.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormHistorial.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormInicio.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPedidos.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormReservas.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.Login.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Properties.Resources.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.GenerateResource.cache
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.CoreCompileInputs.cache
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\Telegram.6CBAF811.Up2Date
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\refint\TelegramFoodBot.Presentation.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.genruntimeconfig.cache
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\ref\TelegramFoodBot.Presentation.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.exe
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll.config
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.deps.json
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.runtimeconfig.json
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.Extensions.Polling.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.pdb
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.pdb
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.pdb
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.AssemblyReference.cache
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPrincipal.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormChats.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMensajes.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMenu.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiPagos.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormHistorial.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormInicio.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPedidos.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormReservas.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.Login.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Properties.Resources.resources
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.GenerateResource.cache
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.CoreCompileInputs.cache
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\Telegram.6CBAF811.Up2Date
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\refint\TelegramFoodBot.Presentation.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.genruntimeconfig.cache
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\ref\TelegramFoodBot.Presentation.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.exe
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll.config
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.deps.json
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.runtimeconfig.json
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\Telegram.Bot.Extensions.Polling.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Business.pdb
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Entities.pdb
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\bin\Debug\net8.0-windows\TelegramFoodBot.Data.pdb
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.AssemblyReference.cache
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPrincipal.resources
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormChats.resources
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMensajes.resources
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiMenu.resources
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormConfiPagos.resources
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormHistorial.resources
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormInicio.resources
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormPedidos.resources
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.FormReservas.resources
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Forms.Login.resources
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.Properties.Resources.resources
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.GenerateResource.cache
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\Telegram.6CBAF811.Up2Date
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\refint\TelegramFoodBot.Presentation.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.pdb
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\TelegramFoodBot.Presentation.genruntimeconfig.cache
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Presentation\obj\Debug\net8.0-windows\ref\TelegramFoodBot.Presentation.dll

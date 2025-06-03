@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Forms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormChats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormConfiMensajes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormConfiMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormConfiPagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormHistorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormReservas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

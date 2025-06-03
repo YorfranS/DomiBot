@@ -1,0 +1,255 @@
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.deps.json
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.pdb
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.pdb
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Data\obj\Debug\net8.0\Telegram.91F7119B.Up2Date
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Data\obj\Debug\net8.0\refint\TelegramFoodBot.Data.dll
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.pdb
+C:\Users\ACER\source\repos\Migue\TelegramFoodBot.Data\obj\Debug\net8.0\ref\TelegramFoodBot.Data.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.deps.json
+E:\C#\Proyectos\Migue\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.pdb
+E:\C#\Proyectos\Migue\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.pdb
+E:\C#\Proyectos\Migue\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.AssemblyReference.cache
+E:\C#\Proyectos\Migue\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Proyectos\Migue\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfoInputs.cache
+E:\C#\Proyectos\Migue\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfo.cs
+E:\C#\Proyectos\Migue\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.CoreCompileInputs.cache
+E:\C#\Proyectos\Migue\TelegramFoodBot.Data\obj\Debug\net8.0\Telegram.91F7119B.Up2Date
+E:\C#\Proyectos\Migue\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Data\obj\Debug\net8.0\refint\TelegramFoodBot.Data.dll
+E:\C#\Proyectos\Migue\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.pdb
+E:\C#\Proyectos\Migue\TelegramFoodBot.Data\obj\Debug\net8.0\ref\TelegramFoodBot.Data.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.deps.json
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.AssemblyReference.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfoInputs.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfo.cs
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.CoreCompileInputs.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\Telegram.91F7119B.Up2Date
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\refint\TelegramFoodBot.Data.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\ref\TelegramFoodBot.Data.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.deps.json
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.pdb
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.pdb
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfo.cs
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\Telegram.91F7119B.Up2Date
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\refint\TelegramFoodBot.Data.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.pdb
+C:\Users\Miguel\Documents\Domi\DomiBotV4\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\ref\TelegramFoodBot.Data.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.deps.json
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.pdb
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.pdb
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfo.cs
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\Telegram.91F7119B.Up2Date
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\refint\TelegramFoodBot.Data.dll
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.pdb
+C:\Users\Miguel\Documents\Domi\DomiBotV5\DomiBotV4\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\ref\TelegramFoodBot.Data.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.deps.json
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.pdb
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.pdb
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.AssemblyReference.cache
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfoInputs.cache
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfo.cs
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.CoreCompileInputs.cache
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\Telegram.91F7119B.Up2Date
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\refint\TelegramFoodBot.Data.dll
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.pdb
+E:\C#\Proyectos\DomiBotV7\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\ref\TelegramFoodBot.Data.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.AssemblyReference.cache
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfoInputs.cache
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfo.cs
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.CoreCompileInputs.cache
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\refint\TelegramFoodBot.Data.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.pdb
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.deps.json
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.pdb
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.dll
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.pdb
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\Telegram.91F7119B.Up2Date
+E:\C#\Proyectos\DomiBotV7\DomiBotV8\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\ref\TelegramFoodBot.Data.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.deps.json
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.pdb
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.pdb
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.AssemblyReference.cache
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfoInputs.cache
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfo.cs
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.CoreCompileInputs.cache
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\Telegram.91F7119B.Up2Date
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\refint\TelegramFoodBot.Data.dll
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.pdb
+E:\C#\PRUEBAS\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\ref\TelegramFoodBot.Data.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.deps.json
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.pdb
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.pdb
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.AssemblyReference.cache
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfoInputs.cache
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfo.cs
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.CoreCompileInputs.cache
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\Telegram.91F7119B.Up2Date
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\refint\TelegramFoodBot.Data.dll
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.pdb
+E:\C#\PRUEBAS\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\ref\TelegramFoodBot.Data.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.deps.json
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.pdb
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.pdb
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfo.cs
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\Telegram.91F7119B.Up2Date
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\refint\TelegramFoodBot.Data.dll
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.pdb
+C:\Users\Miguel\Documents\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\ref\TelegramFoodBot.Data.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.deps.json
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.pdb
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.pdb
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfo.cs
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\Telegram.91F7119B.Up2Date
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\refint\TelegramFoodBot.Data.dll
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.pdb
+C:\Users\Miguel\Documents\DomiBotV14FROMULTIMA\DomiBotV14FROM\DomiBotV14\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\ref\TelegramFoodBot.Data.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.deps.json
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.AssemblyReference.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfoInputs.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfo.cs
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.CoreCompileInputs.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Data\obj\Debug\net8.0\Telegram.91F7119B.Up2Date
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Data\obj\Debug\net8.0\refint\TelegramFoodBot.Data.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - GPT\TelegramFoodBot.Data\obj\Debug\net8.0\ref\TelegramFoodBot.Data.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.deps.json
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.AssemblyReference.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfoInputs.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfo.cs
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.CoreCompileInputs.cache
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Data\obj\Debug\net8.0\Telegram.91F7119B.Up2Date
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Data\obj\Debug\net8.0\refint\TelegramFoodBot.Data.dll
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.pdb
+C:\Users\Yorfr\Sistema\2-Semestre\Proyecto\DomiBot - Claude\TelegramFoodBot.Data\obj\Debug\net8.0\ref\TelegramFoodBot.Data.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.deps.json
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.pdb
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.pdb
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.AssemblyReference.cache
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfoInputs.cache
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfo.cs
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.CoreCompileInputs.cache
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\Telegram.91F7119B.Up2Date
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\refint\TelegramFoodBot.Data.dll
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.pdb
+E:\C#\DomiBotV18\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\ref\TelegramFoodBot.Data.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.deps.json
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.pdb
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.pdb
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.AssemblyReference.cache
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfoInputs.cache
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfo.cs
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.CoreCompileInputs.cache
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\Telegram.91F7119B.Up2Date
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\refint\TelegramFoodBot.Data.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.pdb
+E:\C#\DomiBotV18\DomiBotV26\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\ref\TelegramFoodBot.Data.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.deps.json
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.pdb
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.pdb
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.AssemblyReference.cache
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfoInputs.cache
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfo.cs
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.CoreCompileInputs.cache
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\Telegram.91F7119B.Up2Date
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\refint\TelegramFoodBot.Data.dll
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.pdb
+E:\C#\DomiBotV18\DomiBotV26\DomiBotV26.1\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\ref\TelegramFoodBot.Data.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.deps.json
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Data.pdb
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Data\bin\Debug\net8.0\TelegramFoodBot.Entities.pdb
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.AssemblyReference.cache
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfoInputs.cache
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.AssemblyInfo.cs
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.csproj.CoreCompileInputs.cache
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\Telegram.91F7119B.Up2Date
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\refint\TelegramFoodBot.Data.dll
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\TelegramFoodBot.Data.pdb
+C:\Users\MiguelDev\Downloads\DomiBotV30\DomiBot\TelegramFoodBot.Data\obj\Debug\net8.0\ref\TelegramFoodBot.Data.dll

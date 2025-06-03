@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>TelegramFoodBot.Presentation</RootNamespace>
+    <AssemblyName>TelegramFoodBot.Presentation</AssemblyName>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TelegramFoodBot.Business\TelegramFoodBot.Business.csproj" />
+    <ProjectReference Include="..\TelegramFoodBot.Entities\TelegramFoodBot.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

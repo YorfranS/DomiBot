@@ -1,0 +1,604 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.presentation\\forms\\formhistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\forms\\formhistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.business\\services\\enhancedtelegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|solutionrelative:telegramfoodbot.business\\services\\enhancedtelegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.presentation\\forms\\formpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\forms\\formpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\telegramfoodbot.presentation\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\telegramfoodbot.presentation\\forms\\formreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\forms\\formreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\telegramfoodbot.presentation\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\telegramfoodbot.presentation\\forms\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\forms\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.presentation\\forms\\formpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\forms\\formpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.business\\commands\\comandoreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|solutionrelative:telegramfoodbot.business\\commands\\comandoreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.presentation\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.business\\commands\\handlers\\reservacallbackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|solutionrelative:telegramfoodbot.business\\commands\\handlers\\reservacallbackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.business\\commands\\handlers\\pedidocallbackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|solutionrelative:telegramfoodbot.business\\commands\\handlers\\pedidocallbackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.business\\commands\\handlers\\pagocallbackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|solutionrelative:telegramfoodbot.business\\commands\\handlers\\pagocallbackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.business\\commands\\handlers\\asesorcallbackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|solutionrelative:telegramfoodbot.business\\commands\\handlers\\asesorcallbackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.business\\services\\telegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|solutionrelative:telegramfoodbot.business\\services\\telegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.business\\services\\enhancedcallbackhandlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|solutionrelative:telegramfoodbot.business\\services\\enhancedcallbackhandlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.business\\services\\callbackhandlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|solutionrelative:telegramfoodbot.business\\services\\callbackhandlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.business\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|solutionrelative:telegramfoodbot.business\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.presentation\\forms\\formchats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\forms\\formchats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\telegramfoodbot.presentation\\forms\\formchats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\forms\\formchats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\telegramfoodbot.presentation\\forms\\formconfimenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\forms\\formconfimenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\telegramfoodbot.presentation\\forms\\formconfipagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\forms\\formconfipagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.presentation\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.presentation\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\telegramfoodbot.presentation\\forms\\formconfimensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\forms\\formconfimensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.business\\interfaces\\itelegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|solutionrelative:telegramfoodbot.business\\interfaces\\itelegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.business\\interfaces\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|solutionrelative:telegramfoodbot.business\\interfaces\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.presentation\\forms\\formhistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\forms\\formhistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.business\\commands\\comandoregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B77053-695A-43CB-91E0-B91CF0AF088A}|TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj|solutionrelative:telegramfoodbot.business\\commands\\comandoregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.presentation\\forms\\formreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\forms\\formreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.presentation\\forms\\formconfipagos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\forms\\formconfipagos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2CB8FF-9EED-450B-83E0-7C7908C6B9BF}|TelegramFoodBot.Data\\TelegramFoodBot.Data.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.data\\cuentapagorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2CB8FF-9EED-450B-83E0-7C7908C6B9BF}|TelegramFoodBot.Data\\TelegramFoodBot.Data.csproj|solutionrelative:telegramfoodbot.data\\cuentapagorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.presentation\\forms\\formconfipagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\forms\\formconfipagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330E7D96-4CD5-4813-B63A-E99B984E63A3}|TelegramFoodBot.Entities\\TelegramFoodBot.Entities.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.entities\\models\\cuentapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330E7D96-4CD5-4813-B63A-E99B984E63A3}|TelegramFoodBot.Entities\\TelegramFoodBot.Entities.csproj|solutionrelative:telegramfoodbot.entities\\models\\cuentapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2CB8FF-9EED-450B-83E0-7C7908C6B9BF}|TelegramFoodBot.Data\\TelegramFoodBot.Data.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.data\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2CB8FF-9EED-450B-83E0-7C7908C6B9BF}|TelegramFoodBot.Data\\TelegramFoodBot.Data.csproj|solutionrelative:telegramfoodbot.data\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|c:\\users\\yorfr\\sistema\\2-semestre\\proyecto\\domibot\\telegramfoodbot.presentation\\forms\\formhistorial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B57B43-EF8E-4505-8F97-E5BA25C071DE}|TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj|solutionrelative:telegramfoodbot.presentation\\forms\\formhistorial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormHistorial.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormHistorial.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\Forms\\FormHistorial.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormHistorial.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TelegramFoodBot.Presentation\\Forms\\FormHistorial.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:23:41.244Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnhancedCallbackHandlerService.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Services\\EnhancedCallbackHandlerService.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Business\\Services\\EnhancedCallbackHandlerService.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Services\\EnhancedCallbackHandlerService.cs",
+              "RelativeToolTip": "TelegramFoodBot.Business\\Services\\EnhancedCallbackHandlerService.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAWwKEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:05:42.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormReservas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormReservas.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\Forms\\FormReservas.cs",
+              "ToolTip": "E:\\C#\\DomiBotV18\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormReservas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:25:27.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\Forms\\Form1.cs",
+              "ToolTip": "E:\\C#\\DomiBotV18\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:13:21.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\Forms\\Login.cs",
+              "ToolTip": "E:\\C#\\DomiBotV18\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:25:31.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormPedidos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormPedidos.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\Forms\\FormPedidos.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormPedidos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TelegramFoodBot.Presentation\\Forms\\FormPedidos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:25:24.652Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnhancedTelegramService.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Services\\EnhancedTelegramService.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Business\\Services\\EnhancedTelegramService.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Services\\EnhancedTelegramService.cs",
+              "RelativeToolTip": "TelegramFoodBot.Business\\Services\\EnhancedTelegramService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAhwBoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:05:35.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormInicio.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\Forms\\FormInicio.cs",
+              "ToolTip": "E:\\C#\\DomiBotV18\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:25:21.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormPedidos.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormPedidos.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\Forms\\FormPedidos.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormPedidos.cs",
+              "RelativeToolTip": "TelegramFoodBot.Presentation\\Forms\\FormPedidos.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAqwDYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:56:28.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ComandoReserva.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Commands\\ComandoReserva.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Business\\Commands\\ComandoReserva.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Commands\\ComandoReserva.cs",
+              "RelativeToolTip": "TelegramFoodBot.Business\\Commands\\ComandoReserva.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAD4v18AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:00:24.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\Form1.cs",
+              "RelativeToolTip": "TelegramFoodBot.Presentation\\Forms\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:26:41.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReservaCallbackHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Commands\\Handlers\\ReservaCallbackHandler.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Business\\Commands\\Handlers\\ReservaCallbackHandler.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Commands\\Handlers\\ReservaCallbackHandler.cs",
+              "RelativeToolTip": "TelegramFoodBot.Business\\Commands\\Handlers\\ReservaCallbackHandler.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv0YAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:10:16.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AsesorCallbackHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Commands\\Handlers\\AsesorCallbackHandler.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Business\\Commands\\Handlers\\AsesorCallbackHandler.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Commands\\Handlers\\AsesorCallbackHandler.cs",
+              "RelativeToolTip": "TelegramFoodBot.Business\\Commands\\Handlers\\AsesorCallbackHandler.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowEkAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:08:51.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PagoCallbackHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Commands\\Handlers\\PagoCallbackHandler.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Business\\Commands\\Handlers\\PagoCallbackHandler.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Commands\\Handlers\\PagoCallbackHandler.cs",
+              "RelativeToolTip": "TelegramFoodBot.Business\\Commands\\Handlers\\PagoCallbackHandler.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAswFcAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:09:43.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PedidoCallbackHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Commands\\Handlers\\PedidoCallbackHandler.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Business\\Commands\\Handlers\\PedidoCallbackHandler.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Commands\\Handlers\\PedidoCallbackHandler.cs",
+              "RelativeToolTip": "TelegramFoodBot.Business\\Commands\\Handlers\\PedidoCallbackHandler.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswEMAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:09:56.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CallbackHandlerService.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Services\\CallbackHandlerService.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Business\\Services\\CallbackHandlerService.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Services\\CallbackHandlerService.cs",
+              "RelativeToolTip": "TelegramFoodBot.Business\\Services\\CallbackHandlerService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:05:32.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TelegramService.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Services\\TelegramService.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Business\\Services\\TelegramService.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Services\\TelegramService.cs",
+              "RelativeToolTip": "TelegramFoodBot.Business\\Services\\TelegramService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:54:00.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Business\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Services\\ProductoService.cs",
+              "RelativeToolTip": "TelegramFoodBot.Business\\Services\\ProductoService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:05:27.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormChats.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormChats.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\Forms\\FormChats.cs",
+              "ToolTip": "E:\\C#\\PRUEBAS\\DomiBotV14FROM\\DomiBotV14\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormChats.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:13:24.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormConfiPagos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormConfiPagos.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\Forms\\FormConfiPagos.cs",
+              "ToolTip": "E:\\C#\\PRUEBAS\\DomiBotV14FROM\\DomiBotV14\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormConfiPagos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:53:09.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormConfiMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormConfiMenu.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\Forms\\FormConfiMenu.cs",
+              "ToolTip": "E:\\C#\\PRUEBAS\\DomiBotV14FROM\\DomiBotV14\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormConfiMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:13:28.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormChats.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormChats.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\Forms\\FormChats.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormChats.cs",
+              "RelativeToolTip": "TelegramFoodBot.Presentation\\Forms\\FormChats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:15:40.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\Forms\\Login.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\Login.cs",
+              "RelativeToolTip": "TelegramFoodBot.Presentation\\Forms\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:40:42.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Program.cs",
+              "RelativeToolTip": "TelegramFoodBot.Presentation\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:37:56.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\App.config",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\App.config",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\App.config",
+              "RelativeToolTip": "TelegramFoodBot.Presentation\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-25T18:01:46.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormConfiMensajes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormConfiMensajes.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\Forms\\FormConfiMensajes.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormConfiMensajes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TelegramFoodBot.Presentation\\Forms\\FormConfiMensajes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:13:25.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ITelegramService.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Interfaces\\ITelegramService.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Business\\Interfaces\\ITelegramService.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Interfaces\\ITelegramService.cs",
+              "RelativeToolTip": "TelegramFoodBot.Business\\Interfaces\\ITelegramService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:47:25.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IChatService.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Interfaces\\IChatService.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Business\\Interfaces\\IChatService.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Interfaces\\IChatService.cs",
+              "RelativeToolTip": "TelegramFoodBot.Business\\Interfaces\\IChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:47:37.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ComandoRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Commands\\ComandoRegistro.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Business\\Commands\\ComandoRegistro.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\Commands\\ComandoRegistro.cs",
+              "RelativeToolTip": "TelegramFoodBot.Business\\Commands\\ComandoRegistro.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:50:14.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormHistorial.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormHistorial.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\Forms\\FormHistorial.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormHistorial.cs",
+              "RelativeToolTip": "TelegramFoodBot.Presentation\\Forms\\FormHistorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:59:41.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormReservas.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormReservas.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\Forms\\FormReservas.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormReservas.cs",
+              "RelativeToolTip": "TelegramFoodBot.Presentation\\Forms\\FormReservas.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAIA2wE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:18:34.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CuentaPagoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Data\\CuentaPagoRepository.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Data\\CuentaPagoRepository.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Data\\CuentaPagoRepository.cs",
+              "RelativeToolTip": "TelegramFoodBot.Data\\CuentaPagoRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:18:20.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormConfiPagos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormConfiPagos.Designer.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\Forms\\FormConfiPagos.Designer.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormConfiPagos.Designer.cs",
+              "RelativeToolTip": "TelegramFoodBot.Presentation\\Forms\\FormConfiPagos.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwNUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:19:08.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CuentaPago.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Entities\\Models\\CuentaPago.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Entities\\Models\\CuentaPago.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Entities\\Models\\CuentaPago.cs",
+              "RelativeToolTip": "TelegramFoodBot.Entities\\Models\\CuentaPago.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:17:25.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormConfiPagos.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormConfiPagos.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\Forms\\FormConfiPagos.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormConfiPagos.cs",
+              "RelativeToolTip": "TelegramFoodBot.Presentation\\Forms\\FormConfiPagos.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAqwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:13:39.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Data\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Data\\PedidoRepository.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Data\\PedidoRepository.cs",
+              "RelativeToolTip": "TelegramFoodBot.Data\\PedidoRepository.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAQwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:03:15.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormHistorial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormHistorial.Designer.cs",
+              "RelativeDocumentMoniker": "TelegramFoodBot.Presentation\\Forms\\FormHistorial.Designer.cs",
+              "ToolTip": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\Forms\\FormHistorial.Designer.cs*",
+              "RelativeToolTip": "TelegramFoodBot.Presentation\\Forms\\FormHistorial.Designer.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAApwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:59:58.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

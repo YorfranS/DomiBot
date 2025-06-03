@@ -1,0 +1,309 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj",
+        "projectName": "TelegramFoodBot.Business",
+        "projectPath": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj",
+        "packagesPath": "C:\\Users\\Yorfr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yorfr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Data\\TelegramFoodBot.Data.csproj": {
+                "projectPath": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Data\\TelegramFoodBot.Data.csproj"
+              },
+              "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Entities\\TelegramFoodBot.Entities.csproj": {
+                "projectPath": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Entities\\TelegramFoodBot.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[18.0.0, )"
+            },
+            "Telegram.Bot.Extensions.Polling": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Data\\TelegramFoodBot.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Data\\TelegramFoodBot.Data.csproj",
+        "projectName": "TelegramFoodBot.Data",
+        "projectPath": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Data\\TelegramFoodBot.Data.csproj",
+        "packagesPath": "C:\\Users\\Yorfr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yorfr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Entities\\TelegramFoodBot.Entities.csproj": {
+                "projectPath": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Entities\\TelegramFoodBot.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Entities\\TelegramFoodBot.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Entities\\TelegramFoodBot.Entities.csproj",
+        "projectName": "TelegramFoodBot.Entities",
+        "projectPath": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Entities\\TelegramFoodBot.Entities.csproj",
+        "packagesPath": "C:\\Users\\Yorfr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yorfr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj",
+        "projectName": "TelegramFoodBot.Presentation",
+        "projectPath": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\TelegramFoodBot.Presentation.csproj",
+        "packagesPath": "C:\\Users\\Yorfr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yorfr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj": {
+                "projectPath": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Business\\TelegramFoodBot.Business.csproj"
+              },
+              "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Entities\\TelegramFoodBot.Entities.csproj": {
+                "projectPath": "C:\\Users\\Yorfr\\Sistema\\2-Semestre\\Proyecto\\DomiBot\\TelegramFoodBot.Entities\\TelegramFoodBot.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
