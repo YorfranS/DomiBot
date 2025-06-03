@@ -1,10 +1,5 @@
 # 🤖 TelegramFoodBot - Sistema Integral de Pedidos por Telegram
 
-[![.NET 8.0](https://img.shields.io/badge/.NET-8.0-blue.svg)](https://dotnet.microsoft.com/download)
-[![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-18.0.0-blue.svg)](https://core.telegram.org/bots/api)
-[![Windows Forms](https://img.shields.io/badge/Windows%20Forms-8.0-lightgrey.svg)](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/)
-[![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-orange.svg)](https://www.microsoft.com/en-us/sql-server)
-
 ## 📋 Descripción
 
 **TelegramFoodBot** es un sistema completo de gestión de pedidos de comida que opera a través de Telegram. Permite a los clientes realizar pedidos y reservas de manera interactiva, mientras que los administradores pueden gestionar todo el proceso desde una interfaz de escritorio intuitiva.
